@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Python Developer · CRM Automation Executive · Business Analytics Enthusiast I am passionate about creating intelligent automation systems that simplify workflows and enhance decision-making. My work blends technology and analytics — integrating Python, CRM automation, and data visualization to improve operational performance and customer engagement.\nMY PROJECTS →\n\n\nBeyond my professional interests, I bring a demonstrated commintment to discipline and goal achievement driving these qualities through competitive sports and continuous learning.. I was a professional State level football player and a National Tai-Kwang Do Medalist(holding a Silver and a Bronze medal). My background in team sports and individual competion has a strong influence on my approach to teamwork and perseverance in professional settings.\n\n\n\n\n\n\nI also have a passion for street photography, capturing candid moments that tell compelling stories through my lens, managing a personal Instagram page highliting a strong aesthetic sense, attention to detail and the ability to observe and capture fleeting moments in dynamic, real-world environments.\n\n\n\nInstagram\n\n\n\n\n\n📧 dhruv.kaushik866@gmail.com\n\n\n📞+1(778)679-9471\n\n\nBurnaby, BC"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Python Developer · CRM Automation Executive · Business Analytics Enthusiast I am passionate about creating intelligent automation systems that simplify workflows and enhance decision-making. My work blends technology and analytics — integrating Python, CRM automation, and data visualization to improve operational performance and customer engagement.\nMY PROJECTS →\n\n\nBeyond my professional interests, I bring a demonstrated commintment to discipline and goal achievement driving these qualities through competitive sports and continuous learning.. I was a professional State level football player and a National Tai-Kwang Do Medalist(holding a Silver and a Bronze medal). My background in team sports and individual competion has a strong influence on my approach to teamwork and perseverance in professional settings.\n\n\n\n\n\n\nI also have a passion for street photography, capturing candid moments that tell compelling stories through my lens, managing a personal Instagram page highliting a strong aesthetic sense, attention to detail and the ability to observe and capture fleeting moments in dynamic, real-world environments.\n\n\n\nInstagram\n\n\n\n\n\n📧 dhruv.kaushik866@gmail.com\n\n\n📞+1(778)679-9471\n\n\nBurnaby, BC"
+  },
+  {
+    "objectID": "workcalender.html",
+    "href": "workcalender.html",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "",
+    "text": "WorkCalendar is a production, timezone-aware business-hours engine built to automate SLA calculations inside CRM systems."
+  },
+  {
+    "objectID": "workcalender.html#overview",
+    "href": "workcalender.html#overview",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "",
+    "text": "WorkCalendar is a production, timezone-aware business-hours engine built to automate SLA calculations inside CRM systems."
+  },
+  {
+    "objectID": "workcalender.html#snippets",
+    "href": "workcalender.html#snippets",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "Snippets",
+    "text": "Snippets"
+  },
+  {
+    "objectID": "workcalender.html#features",
+    "href": "workcalender.html#features",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "Features",
+    "text": "Features\n\nImplements timezone-aware logic using ZoneInfo.\nAutomatically calculates deadlines, skips weekends/holidays, and handles after-hour rollovers.\nDesigned for CRM systems like LeadSquared and HubSpot to improve SLA tracking accuracy.\nIncludes configuration validation, floating-point precision handling, and safety guards."
+  },
+  {
+    "objectID": "workcalender.html#tech-stack",
+    "href": "workcalender.html#tech-stack",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPython · datetime · ZoneInfo · Logging"
+  },
+  {
+    "objectID": "workcalender.html#impact",
+    "href": "workcalender.html#impact",
+    "title": "WorkCalendar — Intelligent Business-Hours Automation",
+    "section": "Impact",
+    "text": "Impact\nReduced manual SLA miscalculations by 100%, ensuring accurate escalation timelines.\n← Back to Projects"
+  },
+  {
+    "objectID": "sustainable-fashion.html",
+    "href": "sustainable-fashion.html",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "",
+    "text": "This report offers an overview of green materials, sustainability certifications, market segments, and country-level performance towards the use of sustainable materials."
+  },
+  {
+    "objectID": "sustainable-fashion.html#overview",
+    "href": "sustainable-fashion.html#overview",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "",
+    "text": "This report offers an overview of green materials, sustainability certifications, market segments, and country-level performance towards the use of sustainable materials."
+  },
+  {
+    "objectID": "sustainable-fashion.html#snippets",
+    "href": "sustainable-fashion.html#snippets",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "Snippets",
+    "text": "Snippets"
+  },
+  {
+    "objectID": "sustainable-fashion.html#snippets-1",
+    "href": "sustainable-fashion.html#snippets-1",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "Snippets",
+    "text": "Snippets"
+  },
+  {
+    "objectID": "sustainable-fashion.html#features",
+    "href": "sustainable-fashion.html#features",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "Features",
+    "text": "Features\n\nDashboards incorporated filters for countries, materials, and brands, enabling users to look at data in detail.\n\nHighlighting critical insights, such as forecasts, and country performance were visually emphasized to aid key findings\n\nRegression modeling\n\nCircular economy recommendations"
+  },
+  {
+    "objectID": "sustainable-fashion.html#key-findings",
+    "href": "sustainable-fashion.html#key-findings",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nThe examination of ecofriendly textile materials and fabrics uncovers a few critical patterns and indicators towards the performance and contribution of the fashion industry.\n\n10% of the worlds gas emissions are contributed by the fashion industry.\n\nBamboo texture is the foremost cost-effective fabric, especially in rising worldwide markets, where generation costs are lower.\nCertifications like GOTS, OEKO-TEX, and Reasonable Exchange are vital for setting up validity and buyer believe, permitting items to command premium costs.\nKey markets like France, Brazil, and China appear changing levels of selection, with developing economies looking for cost-effective, locally created economical materials like bamboo fabric and hemp"
+  },
+  {
+    "objectID": "sustainable-fashion.html#tech-stack",
+    "href": "sustainable-fashion.html#tech-stack",
+    "title": "Sustainable Fashion Analytics — UCW Capstone",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPython · Excel · Tableau\n← Back to Projects"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Ozone Overseas Pvt. Ltd. CRM Automation Executive (2023–2024) Automated LeadSquared & Freshworks CRM, reducing lead response time by 95% and improving conversions.\n\n Saurabhi Media Pvt. Ltd. Python Developer (2021–2022) Built Watch Folder Monitoring System used by NDTV & TV18, improving process efficiency by 40%.\n\n Areneva Technologies Pvt. Ltd. Business Analyst Intern (2022) Created Power BI dashboards, reducing manual reporting time by 80%."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 dhruv.kaushik866@gmail.com 📞 +1(778)679-9471\n🔗 LinkedIn 🔗 GitHub 🔗 Instagram"
+  },
+  {
+    "objectID": "chatbot.html",
+    "href": "chatbot.html",
+    "title": "Freshworks CRM Chatbot",
+    "section": "",
+    "text": "A custom, AI-driven chatbot integrated into the website of Ozone India Pvt. Ltd. on the Freshworks CRM ecosystem. This solution automates Tier1 customer service and rigorously qualifies leads to optimise sales funnel efficiency."
+  },
+  {
+    "objectID": "chatbot.html#overview",
+    "href": "chatbot.html#overview",
+    "title": "Freshworks CRM Chatbot",
+    "section": "",
+    "text": "A custom, AI-driven chatbot integrated into the website of Ozone India Pvt. Ltd. on the Freshworks CRM ecosystem. This solution automates Tier1 customer service and rigorously qualifies leads to optimise sales funnel efficiency."
+  },
+  {
+    "objectID": "chatbot.html#project-details",
+    "href": "chatbot.html#project-details",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Project Details",
+    "text": "Project Details\n\nClient: Ozone India Pvt. Ltd.\nDuration: June 2023 - August 2024\nRole: Lead Developer & CRM Automation Executive\nStatus: Deployed, In-active\nTeam Size: 2 (Developer, CRM Executive + Project Manager)"
+  },
+  {
+    "objectID": "chatbot.html#snippets-click-to-download",
+    "href": "chatbot.html#snippets-click-to-download",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Snippets (Click to download)",
+    "text": "Snippets (Click to download)"
+  },
+  {
+    "objectID": "chatbot.html#features",
+    "href": "chatbot.html#features",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Features",
+    "text": "Features\n\nIntelligent Intent Recognition - Elaborated Natural Language processing (NLP) capabilities that goes beyond simple keyword word matching ability for intent recognition (Example, “I want to return this” vs. “Where is my order?”) and accurately assigning the converstation to the right workflow, knowledgebase article or human agent.\n\nKnowledge Base Integration - Dynamically fetches answers from The company’s (Freshworks and Ozone India Pvt. Ltd.) Knowledge Base(KB) articles to provide accurate and contextually relevant responses to customer queries, providing support 24/7 by accessing and summuriziung relevant articles for common Tier 1 querries.\nCustomn Scripting - Beyond just lead creation and transfer capabilities, the chatbot has custom scripts that enables it to handle specific transactional querries being able to communicate with RazorPay’s API’s to fetch payment status, generate invoices and more.\nPersonalised Interaction - By leveraging login data and CRM records, the chatbot offers a personalised experience addressing customers by name (giving them option to set the nickname for the customer), recalling past interactions to provide context aware and tailoredresponses based on customer history."
+  },
+  {
+    "objectID": "chatbot.html#challenges",
+    "href": "chatbot.html#challenges",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Challenges",
+    "text": "Challenges\n\nComplex Intent Recognition - Developing an NLP model capable of accurately interpreting diverse customer intents and handling ambiguous queries required extensive training data and fine-tuning.\nSolution - Trining the NLP model on a diverse dataset of customer interactions and continuously refining it based on real-world usage to improve accuracy over time.\nIntegration - Seamlessly integrating the chatbot with Ozone India Pvt. Ltd. website built on a complete custom setup, integration with the third party services (eg., RazorPay) ensuring smooth data flow between the chatbot, CRM, and other third-party services posed significant technical challenges.\nSolution - Leveraging Freshworks’ robust API with the company’s website (to access customer data) and Razorpay (to access order number) capabilities and webhooks to establish secure and efficient communication channels between the chatbot, CRM, and third-party services."
+  },
+  {
+    "objectID": "chatbot.html#tech-stack",
+    "href": "chatbot.html#tech-stack",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPython · Freshworks APIs · NLP · Webhooks · Postman · JSON"
+  },
+  {
+    "objectID": "chatbot.html#impact",
+    "href": "chatbot.html#impact",
+    "title": "Freshworks CRM Chatbot",
+    "section": "Impact",
+    "text": "Impact\n\nReduced Tier 1 support load by over 60% and improved lead response time immediately upon deployment.\nAverage Resolution Time for Tier 1 queries decreased from 15 minutes to under 2 minutes.\nImproved and Increased the volume of *sales-qualified leads8 ROUTED TO SALES TEAM by 45% within the first quarter post-implementation.\n\n← Back to Projects"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education 📚",
+    "section": "",
+    "text": "MBA, University Canada West — Vancouver BC (Present)\n\nMy Master of Business Administration (MBA) program at University Canada West isdesigned to enhance my technical, analytical, and strategic management skills.\n\n\n\n\nBCA, Guru Gobind Singh Indraprastha University — New Delhi\n\nDuring my Bachelor of Computer Applications (BCA) degree, I gained a solid foundation in core computing principles, including programming, database management, and software development. The curriculum equipped me with essential technical skills such as web development, data structures, algorithms, and practical knowledge of information systems. This academic experience helped me develop problem-solving abilities and proficiency in multiple programming languages, which have been crucial in shaping my career in technology and business."
+  },
+  {
+    "objectID": "project_index.html",
+    "href": "project_index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are my key analytics and development projects. Click on each project to learn more.\n\n \n\nWork-Calendar: Business Hours SLA Automation\n\n\nBusiness hours calculator engine for SLA management and deadlines.\n\n  \n\nFolder Spy: Media File Automation\n\n\nAutomated real-time media file tracking and log system.\n\n  \n\nCRM Chatbot\n\n\nCustom AI-driven chatbot.\n\n  \n\nSustainable Fashion Analytics\n\n\nData analysis on sustainable fashion trends using Python, Pandas and Matplotlib."
+  },
+  {
+    "objectID": "watchfolder.html",
+    "href": "watchfolder.html",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "",
+    "text": "A desktop-based Python application designed to automate file tracking and event logging across media production servers. The system monitors specified directories for file creation, modification, or deletion in real time, maintaining a complete audit trail for accountability. It also integrates email notification alerts to inform administrators of critical file changes or missing assets."
+  },
+  {
+    "objectID": "watchfolder.html#overview",
+    "href": "watchfolder.html#overview",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "",
+    "text": "A desktop-based Python application designed to automate file tracking and event logging across media production servers. The system monitors specified directories for file creation, modification, or deletion in real time, maintaining a complete audit trail for accountability. It also integrates email notification alerts to inform administrators of critical file changes or missing assets."
+  },
+  {
+    "objectID": "watchfolder.html#snippets",
+    "href": "watchfolder.html#snippets",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "Snippets",
+    "text": "Snippets"
+  },
+  {
+    "objectID": "watchfolder.html#features",
+    "href": "watchfolder.html#features",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "Features",
+    "text": "Features\n\nReal-time monitoring of multiple folders with parallel thread execution.\nSQLite database for storing file logs and change histories.\nConfigurable alert system with SMTP-based email triggers for anomalies.\nGUI built using Tkinter for user-friendly configuration and control."
+  },
+  {
+    "objectID": "watchfolder.html#tech-stack",
+    "href": "watchfolder.html#tech-stack",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPython · datetime · ZoneInfo · Logging"
+  },
+  {
+    "objectID": "watchfolder.html#impact",
+    "href": "watchfolder.html#impact",
+    "title": "WatchFolder — Automated File Processing System",
+    "section": "Impact",
+    "text": "Impact\nEliminated SLA miscalculations and improved escalation timelines.\n← Back to Projects"
+  }
+]
